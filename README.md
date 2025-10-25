@@ -8,8 +8,8 @@
 
 ### 💡 Featured Projects:
 
-* **Green Risk, Red Returns**: Mapping The Financial Impact of Climate Risk Across Differing Climate Risk Regions
 * **Predictive Intelligence**: Building and Analysing Customer Classification Machine Learning Models
+* **Green Risk, Red Returns**: Mapping The Financial Impact of Climate Risk Across Differing Climate Risk Regions
 
 ---
 
